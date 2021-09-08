@@ -1,0 +1,14 @@
+.foreground {
+    background-color: #2C6E49;
+}
+
+.background {
+    background-color: #4C956C;
+}
+
+* {
+    font-weight: bold;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 18px;
+}
